@@ -1,3 +1,7 @@
+⚠️ This project is licensed under "All Rights Reserved".  
+You may not copy, use, or distribute this code without permission.
+
+
 # 🧠 Typing Speed Test App
 
 A GUI-based Typing Speed Test application built using **Python** and **Tkinter**.  
