@@ -23,5 +23,3 @@ Test your typing speed, accuracy, and improve with each try.
 
 ---
 
-## 🗂️ File Structure
-
